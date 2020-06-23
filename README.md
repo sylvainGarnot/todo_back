@@ -11,10 +11,10 @@ simple todo list made with Django-Rest-Framework
 
 ### Installation
 ```
-$ python manage.py makemigrations
-$ python manage.py migrate
+$ python todo/manage.py makemigrations
+$ python todo/manage.py migrate
 
-$ python manage.py createsuperuser
+$ python todo/manage.py createsuperuser
 
-$ python manage.py runserver
+$ python todo/manage.py runserver
 ```
